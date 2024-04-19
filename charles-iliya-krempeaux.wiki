@@ -212,9 +212,9 @@ Mostly from doing a [[view-source]] and reading the HTML [[source-code]], on var
 
 **Charles Iliya Krempeaux** got into Linux in the 1990s.
 
-My Uncle Paul — my father's brother — died in the 1990s.
+**Charles Iliya Krempeaux**'s //Uncle Paul// — his father's brother — died in the 1990s.
 
-**Charles Iliya Krempeaux** taught myself PHP, in the 1990s.
+**Charles Iliya Krempeaux** taught himself the [[php]] [[programming-language]], in the 1990s.
 
 §§§ 2000s
 
@@ -253,7 +253,7 @@ My mother's oldest brother, Sayyid Hassan Safavi, died in the 1990s.
 (Having grown up with Adam, I think of Ethan as being almost like my own son.)
 
 **Charles Iliya Krempeaux**'s father died, in the 2000s.
-(We still miss him very very much!)
+(Charles still miss him very very much!)
 
 **Charles Iliya Krempeaux** bought a 2007 Mazda RX-8 GT, in the 2000s.
 (His 2nd RX-8.)
@@ -307,6 +307,8 @@ Originally he had a light interest based just on curiousity, but his interest in
 **Charles Iliya Krempeaux** left [[hootsuite]] and started doing work for [[trulioo]], in the 2010s.
 
 **Charles Iliya Krempeaux** met his friend **Massoud Seifi**, in the 2010s.
+
+**Charles Iliya Krempeaux** taught himself the [[golang]] [[programming-language]], in the 1990s.
 
 **Charles Iliya Krempeaux** took over as head of the **Machine Learning Meetup Group**, in the 2010s.
 
